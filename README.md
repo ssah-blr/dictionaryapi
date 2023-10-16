@@ -68,3 +68,6 @@ To build an automation pipeline for a web-based API that queries another API, ru
 This pipeline automates the process of building the Docker image, pushing it to Docker Hub, and can be extended to include further stages like automated testing and deployment.
 
 Make sure to replace 'your-image-name:tag' with your actual image name and tag in the Jenkinsfile. Also, ensure you have the necessary permissions and settings in Docker Hub and Jenkins for this pipeline to work seamlessly.
+
+Web Application ScreenShot -
+![Alt text](WebScreenShot.png?raw=true "DictionaryApi")
